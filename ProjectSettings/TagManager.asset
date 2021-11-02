@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Portal
+  - GameOver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1726778207
+    locked: 0
+  - name: Decoration
+    uniqueID: 1448780705
+    locked: 0
+  - name: Platforms
+    uniqueID: 70306847
+    locked: 0
+  - name: Player
+    uniqueID: 3037462473
+    locked: 0
+  - name: Foreground Decoration
+    uniqueID: 1100412245
+    locked: 0
+  - name: Item
+    uniqueID: 2799850549
+    locked: 0
+  - name: Enemy
+    uniqueID: 3194077915
+    locked: 0
